@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-23 09:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+#: frontend/templates/index.html:71
+msgid "Extra Pages"
+msgstr "Pages supplémentaires"
+
+msgid "Starter"
+msgstr "Démarreur"
+
+msgid "Invoice"
+msgstr "Facture"
+
+msgid "Log In"
+msgstr "Connexion"
+
+msgid "Register"
+msgstr "Inscription"
+
+msgid "Recover Password"
+msgstr "Récupérer mot de passe"
+
+msgid "Lock Screen"
+msgstr "Écran verrouillé"
+
+msgid "Error 404"
+msgstr "Erreur 404"
+
+msgid "Error 500"
+msgstr "Erreur 500"
+
+
+#: settings/settings.py:108
+msgid "English"
+msgstr ""
+
+#: settings/settings.py:109
+msgid "French"
+msgstr ""
+
+#: templates/menu.html
+msgid "Dashboards"
+msgstr "Tableaux de bord"
+
+#: templates/menu.html
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: templates/menu.html
+msgid "Layouts"
+msgstr "Dispositions"
+
+#: templates/menu.html
+msgid "UI Elements"
+msgstr "Éléments d'interface utilisateur"
+
+#: templates/menu.htmlxư
+msgid "Components"
+msgstr "Composants"
+
+#: templates/menu.html
+msgid "Icons"
+msgstr "Icônes"
+
+#: templates/menu.html
+msgid "Forms"
+msgstr "Formulaires"
+
+#: templates/menu.html
+msgid "Tables"
+msgstr "Tableaux"
+
+#: templates/menu.html
+msgid "Charts"
+msgstr "Graphiques"
+
+#: templates/menu.html
+msgid "Maps"
+msgstr "Cartes"
+
+#: templates/menu.html
+msgid "Multi Level"
+msgstr "Niveaux multiples"
+
+#: templates/dashboard.html
+msgid "Cost per Unit"
+msgstr "Coût par unité"
+
+#: templates/dashboard.html
+msgid "Market Revenue"
+msgstr "Revenu du marché"
+
+#: templates/dashboard.html
+msgid "Expenses"
+msgstr "Dépenses"
+
+#: templates/dashboard.html
+msgid "Daily Visits"
+msgstr "Visites quotidiennes"
+
+#: templates/dashboard.html
+msgid "Sales Analytics"
+msgstr "Analyse des ventes"
+
+#: templates/dashboard.html
+msgid "From date of 1st Jan 2020 to continue"
+msgstr "À partir du 1er janvier 2020 et au-delà"
+
+#: templates/dashboard.html
+msgid "Stock"
+msgstr "Stock"
+
+#: templates/dashboard.html
+msgid "Recent Stock"
+msgstr "Stock récent"
+
+#: templates/dashboard.html
+msgid "Total sales made today"
+msgstr "Total des ventes effectuées aujourd'hui"
+
+#: templates/dashboard.html
+msgid "Traditional heading elements are designed to work best in the meat of your page content."
+msgstr "Les éléments de titre traditionnels sont conçus pour fonctionner au mieux dans le contenu principal de votre page."
+
+#: templates/dashboard.html
+msgid "Account Transactions"
+msgstr "Transactions du compte"
+
+#: templates/dashboard.html
+msgid "Transaction period from 21 July to 25 Aug"
+msgstr "Période de transaction du 21 juillet au 25 août"
